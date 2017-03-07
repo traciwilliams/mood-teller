@@ -1,4 +1,4 @@
-# mood-teller
+# Mood Teller
 
 Give me your name and tell me your mood
 
