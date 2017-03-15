@@ -16,6 +16,7 @@ function showMood() {
 	//if statements to add expressions
 	if (mood === "happy") {
 		face = ":)";
+		
 	}
 	else if (mood === "sad") {
 		face = ":(";

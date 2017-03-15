@@ -149,14 +149,14 @@ section#main {
     //position: relative;
     //width: 50%;
     float: left;
-    background-color: blue;
+    background-color: grey;
     //display: inline-block;
 }
 
 aside {
     //width: 20%;
     float: right;
-    background-color: pink;
+    background-color: #eee;
     //display: inline-block;
 }
 
